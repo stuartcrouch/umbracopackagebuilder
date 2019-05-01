@@ -1,0 +1,4 @@
+install y
+user change-password admin $adminpwd$
+package 001-Setup
+usync import
